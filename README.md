@@ -74,4 +74,4 @@ This project addresses that challenge by providing a unified, data-driven dashbo
 ---
 
 ## Preview
-![Dashboard Preview](screenshots/dashboard_overview.png)
+![Dashboard Preview](dashboard_overview.png)
